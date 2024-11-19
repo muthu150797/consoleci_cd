@@ -22,12 +22,12 @@ jobs:
           dotnet-version: '8.0'  # Specify .NET version (adjust as needed)
 
       - name: Restore dependencies
-        run: dotnet restore  # Restore dependencies defined in .csproj
+        run: dotnet restore  Console_CI_CD/Console_CI_CD.sln # Restore dependencies defined in .csproj
 
       - name: Build project
-        run: dotnet build --configuration Release  # Build the project in Release mode
+        run: dotnet build Console_CI_CD/Console_CI_CD.sln --configuration Release  # Build the project in Release mode
 
       - name: Run tests
-        run: dotnet test --configuration Release  # Run tests (adjust as needed)
+        run: dotnet test Console_CI_CD/Console_CI_CD.sln --configuration Release  # Run tests (adjust as needed)
 
  
