@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest  # Using an Ubuntu runner for the build job
 
     steps:
-      -  name: Check secret
+      -  name:  Print the USER environment variable
          run: echo "USER:$USER"
         
       - name: Checkout code
