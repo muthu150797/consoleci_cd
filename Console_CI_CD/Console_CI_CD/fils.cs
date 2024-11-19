@@ -1,1 +1,2 @@
-dfg
+public class myclass{
+}
