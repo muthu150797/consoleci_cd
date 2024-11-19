@@ -1,0 +1,14 @@
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\bin\Debug\net8.0\Console_CI_CD.exe
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\bin\Debug\net8.0\Console_CI_CD.deps.json
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\bin\Debug\net8.0\Console_CI_CD.runtimeconfig.json
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\bin\Debug\net8.0\Console_CI_CD.dll
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\bin\Debug\net8.0\Console_CI_CD.pdb
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.AssemblyInfoInputs.cache
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.AssemblyInfo.cs
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.csproj.CoreCompileInputs.cache
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.dll
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\refint\Console_CI_CD.dll
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.pdb
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\Console_CI_CD.genruntimeconfig.cache
+C:\Users\muthumani.m\source\repos\Studies\Console_CI_CD\Console_CI_CD\obj\Debug\net8.0\ref\Console_CI_CD.dll
